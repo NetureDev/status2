@@ -1,1 +1,1 @@
-http 500 (bad request)
+wtf gemini sux
