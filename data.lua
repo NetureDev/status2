@@ -1,1 +1,1 @@
-{error=true}
+{error=true,message='http 500'}
